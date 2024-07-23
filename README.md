@@ -1,6 +1,6 @@
 # One Time Pad with Ruby
 
-The only genuinely unbreakable cipher made with ruby
+The only genuinely unbreakable cipher made with ruby. WIP project done during my "Cybersecurity & Trusted Systems" Masters program
 
 ## What is One Time Pad?
 
@@ -10,5 +10,5 @@ In cryptography, the one-time pad (OTP) is an encryption technique that cannot b
 ## Next Steps (WIP)
 
 - Update Specs
-- Create an interface (From Console to Web App)
+- Create an interface
 - Add detailed description
